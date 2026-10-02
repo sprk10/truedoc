@@ -13,7 +13,7 @@
 # 2026-08-25: dropped the trailing "verifiedby.dev still redirects to
 # truedoc.eu" check. That redirect was removed 2026-08-22 when
 # verifiedby.dev was repurposed as a separate npm/docs site
-# (signedbyai/verifiedby, verify-core.mjs published as an npm package) --
+# (sprk10/verifiedby, verify-core.mjs published as an npm package) --
 # it no longer redirects anywhere, on purpose, and this repo has no
 # further relationship to that domain to verify.
 

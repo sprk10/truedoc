@@ -17,6 +17,12 @@ Format follows [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
 
 ### Changed
 
+- Repository moved from `signedbyai/truedoc` to `sprk10/truedoc` (the
+  GitHub organisation of SPRK10 B.V., which publishes TrueDOC). The page's
+  source link, the README badge, and `security.txt` now point at the new
+  location; the old URLs redirect. No behaviour, checks, or verdicts
+  changed — the build stamp changes only because `shell.html`'s link text
+  did.
 - Rebranded from VerifiedBy/verifiedby.dev to TrueDOC/truedoc.eu. No
   behaviour, checks, or verdicts changed — this is the domain, page title,
   repository name, and trademark references only. The build stamp changes

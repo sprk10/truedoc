@@ -15,6 +15,10 @@ Format follows [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
 
 ## [Unreleased]
 
+## 2026-10-02 (fourth release)
+
+Build stamp `c93fa8c7ea7e` · deployed SHA-256 `513938c91f8186b04f42e8ea5268e3147ccf64f1b107f8c538ed1f1ac1b5c720`
+
 ### Changed
 
 - Repository moved from `signedbyai/truedoc` to `sprk10/truedoc` (the
@@ -23,6 +27,13 @@ Format follows [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
   location; the old URLs redirect. No behaviour, checks, or verdicts
   changed — the build stamp changes only because `shell.html`'s link text
   did.
+
+## 2026-08-17 (third release)
+
+Build stamp `52bf2affe2de` · deployed SHA-256 `aacc06d06703216134d55fa6e79d80831d0500b20f1a663e1267392f6307a89d`
+
+### Changed
+
 - Rebranded from VerifiedBy/verifiedby.dev to TrueDOC/truedoc.eu. No
   behaviour, checks, or verdicts changed — this is the domain, page title,
   repository name, and trademark references only. The build stamp changes
